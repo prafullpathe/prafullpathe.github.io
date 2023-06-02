@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8033dcd2.css",
-    "main.js": "/static/js/main.2613be50.js",
+    "main.css": "/static/css/main.d4989af0.css",
+    "main.js": "/static/js/main.4ec564f8.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -12,20 +12,20 @@
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/Prafull.jpg": "/static/media/Prafull.a638dfc28eaebedb804a.jpg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Prafull_resume.pdf": "/static/media/Prafull_resume.a7fec7aa8deaac5e4108.pdf",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Prafull_resume.pdf": "/static/media/Prafull_resume.31532ac79fe1b7a47400.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/xml-file.png": "/static/media/xml-file.3d015f7f1450064b585f.png",
     "static/media/apigee.svg": "/static/media/apigee.b5ae9dbe058fad95d5cded4d30c5681b.svg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.8033dcd2.css.map": "/static/css/main.8033dcd2.css.map",
-    "main.2613be50.js.map": "/static/js/main.2613be50.js.map",
+    "main.d4989af0.css.map": "/static/css/main.d4989af0.css.map",
+    "main.4ec564f8.js.map": "/static/js/main.4ec564f8.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8033dcd2.css",
-    "static/js/main.2613be50.js"
+    "static/css/main.d4989af0.css",
+    "static/js/main.4ec564f8.js"
   ]
 }
