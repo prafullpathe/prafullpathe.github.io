@@ -396,11 +396,11 @@ button:focus {
 .home-social-icons {
   position: relative !important;
   display: inline-block !important;
-  width: 40px !important;
-  height: 40px !important;
+  width: 30px !important;
+  height: 30px !important;
   text-align: center !important;
-  font-size: 1.2em !important;
-  line-height: 2em !important;
+  font-size: 1em !important;
+  line-height: 1.6em !important;
   background: rgba(255, 255, 255, 0.972) !important;
   border-radius: 50% !important;
   transition: 0.5s !important;
@@ -440,15 +440,53 @@ button:focus {
 .icon-colour {
   color: #700c86 !important;
 }
+@media (max-width:420px) {
+  .modal-content>.modal-header {
+    font-size: 3em !important;
+  }
+
+  .modal-title {
+    font-size: 28px !important;
+    display: flex !important;
+    justify-content: center !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    margin-left: -20px !important;
+  }
+
+  .Home-Call-Img>p,
+  .Home-Mail-Call>p {
+    text-align: left !important;
+    font-size: 18px !important;
+    margin-left: -30px !important;
+  }
+
+  .modal-body>form {
+    padding: 5px !important;
+  }
+
+  .modal-body>form label {
+    font-size: 0.7em !important;
+  }
+
+  .myMessageWarniingColor {
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  .myMessageWarniing {
+    font-size: 0.6em !important;
+  }
+}
 
 /* --------- */
 /* Footer */
 /* --------- */
 .footer {
   background-color: rgb(10, 4, 22);
-  bottom: 0 !important;
-  padding-top: 10px !important;
-  padding-bottom: 8px !important ;
+  padding-top: 15px !important;
+  padding-bottom: 20px !important ;
+  margin-top: 0px;
 }
 .footer-copywright {
   text-align: center !important;
@@ -470,7 +508,7 @@ button:focus {
 }
 
 .footer h3 {
-  font-size: 1em;
+  font-size: 1.05em;
   color: white !important;
   margin-top: 0.5em !important;
   margin-bottom: 0.5em !important;
@@ -490,12 +528,12 @@ button:focus {
 .project-section {
   position: relative !important;
   padding-top: 150px !important;
-  padding-bottom: 30px !important;
+  padding-bottom: 420px !important;
   background-image: var(--section-background-color) !important;
 }
 
 .project-card {
-  padding-top: 50px !important;
+  padding-top: 250px !important;
   padding-bottom: 50px !important;
   padding-left: 25px !important;
   padding-right: 25px !important;
@@ -515,7 +553,11 @@ button:focus {
   overflow: hidden !important;
   box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
 }
-
+.project-btn:hover {
+  transform: scale(1.02) !important;
+  overflow: hidden !important;
+  border: 1px solid rgba(129, 72, 144, 0.561) !important;
+}
 .blog-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;

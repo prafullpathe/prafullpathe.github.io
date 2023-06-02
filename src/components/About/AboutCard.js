@@ -17,25 +17,24 @@ function AboutCard() {
             <br/>
              My name is <span className="purple">Prafull Pathe , </span>
     
-             I'm a software engineer with passion for solving complex problems and 
-             creating innovative solutions.
+             Here listed some of my skills , i am familier with.
              <br/>
              <br/>
-             An excellent academic record, ability to understand and 
-             test software, working knowledge of Google cloud, and a strong
-             understanding of core internet technologies. 
+               An excellent academic record, ability to understand and 
+               test software, working knowledge of Google cloud, and a strong
+               understanding of core internet technologies.
             <br/>  
             <br/>     
-             I graduated in 2021 with a degree in computer science and 
-             engineering and have since gained valuable experience working 
-             with cutting edge technologies like  google cloud, Artificial
-             intelligence and Gateways.
+                I graduated in 2021 with a degree in computer science and 
+                engineering and have since gained valuable experience working 
+                with cutting edge technologies like  google cloud, Artificial
+                intelligence and Gateways.
           
             <br />
             <br />
-             I also familier with java and IOT but I'm always eager to learn new
-             skills to expand my knowledge and stay up-to-date in this ever-evolving
-              field.
+               I also familier with java and IOT but I'm always eager to learn new
+               skills to expand my knowledge and stay up-to-date in this ever-evolving
+               field.
               <br/>
               <b className="purple">I invite here to explore my portfolio.</b>
           </p>

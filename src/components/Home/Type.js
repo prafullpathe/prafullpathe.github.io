@@ -7,7 +7,7 @@ function Type() {
     <h1 className="type"> Software Engineer 🧑‍💻 </h1>
     <h1 className="type"> Cloud Engineer ☁️ </h1>
     <h1 className="type"> Gateway Developer </h1>
-    <h1 className="type"> Machine Learning </h1>
+    <h1 className="type"> AI Machine Learning </h1>
     </>
 
     // <Typewriter
