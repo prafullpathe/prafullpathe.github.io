@@ -41,6 +41,7 @@ function Projects() {
             <ProjectCard
              
               isBlog={false}
+<<<<<<< HEAD
               title="DataPower Specialist"
               para="Extensively worked with DataPower Gateway and various gateway
                technologies including APIC, Apigee, and APIM.
@@ -50,6 +51,8 @@ Service (CaaS) approach."
  
               description="Currently working on creating a bot for organization, leveraging AI technologies to
  automate tasks and improve efficiency."
+=======
+          
            
             />
           </Col> */}

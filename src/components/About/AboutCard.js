@@ -18,6 +18,7 @@ function AboutCard() {
              My name is <span className="purple">Prafull Pathe , </span>
     
              Here listed some of my skills , i am familier with.
+           
              <br/>
              <br/>
                An excellent academic record, ability to understand and 

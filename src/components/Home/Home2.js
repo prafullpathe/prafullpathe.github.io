@@ -28,26 +28,25 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm Prafull, a passionate software engineer with expertise in 
-            Gateway development,specifically DataPower administration and development,
-             Apigee, and Apim.
-             
+            I'm Prafull, I am an experienced Datapower Gateway engineer and migration specialist 
+              with a strong interest in AI, data science and machine learning.
+      I have a proven track record of successfully migrating Datapower Gateways from on-premises to the cloud and resolving critical issues
+      
+             An excellent academic record, ability to understand and 
+             test software, working knowledge of Google cloud, and a strong
+             understanding of core internet technologies. 
               Graduating in 2021 with a computer science and engineering degree, I've gained valuable experience working
               with cutting-edge technologies. 
 
-             I excel in XML and scripting languages, and have hands-on experience with Docker,
+          I am Proficient in handling tickets and providing configuration support for DataPower and its configuration.
+          I excel in XML and scripting languages required for gateway, and have hands-on experience with Docker,
              Kubernetes, GitHub, and Tekton in the Google Cloud ecosystem.
-             Proficient in C, Java, Python, and IOT, I enjoy solving
-             complex problems and creating elegant solutions.
+            
 
-            Additionally, I'm skilled in using monitoring tools like 
-            Splunk, Dpod, Grafana, and Sysdig to optimize system
-            performance. 
+     
             <br/>
             <br/>
-             <b className="purple">As a software engineer,cloud engineer, 
-            gateway developer and AI machine learning,</b>  I constantly
-            expand my knowledge to stay current in this ever-evolving field.
+          
            <br/>
            <br/>
               <i> 
