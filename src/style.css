@@ -626,6 +626,10 @@ button:focus {
 /* --------- */
 /* About */
 /* --------- */
+.skillsec{
+  word-spacing: normal;
+  text-align: justify;
+}
 
 .about-section {
   position: relative !important;

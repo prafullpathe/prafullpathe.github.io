@@ -6,8 +6,8 @@ function AboutCard() {
   return (
     <Card className="quote-card-view">
       <Card.Body>
-        <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+        {/* <blockquote className="blockquote mb-0">
+          <p className="skillsec" style={{  }}>
             Hi Everyone,
 
           
@@ -45,7 +45,7 @@ function AboutCard() {
             "Strive to build things that make a difference!"{" "}
           </p>
           <footer className="blockquote-footer">Prafull</footer>
-        </blockquote>
+        </blockquote> */}
       </Card.Body>
     </Card>
   );
